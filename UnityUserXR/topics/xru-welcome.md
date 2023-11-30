@@ -9,7 +9,7 @@ This documentation serves as a guide to using our games and simulations.
 
 Distance Education XR encompasses various immersive technologies, including Virtual Reality (VR), 
 Augmented Reality (AR), Mixed Reality (MR), and Realtime 3D. These technologies are transforming the 
-way we interact with and understand learning experiances.
+way we interact with and understand learning experiences.
 
 ### Why This Documentation?
 
