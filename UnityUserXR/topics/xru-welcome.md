@@ -23,4 +23,4 @@ This documentation is designed to provide you with:
 
 Start exploring the documentation here:
 
-- [**Virtual Ocean Documentation**](virtual-ocean-setup.md) - *Dive* into an interactive oceanography experience.
+- [**Virtual Ocean Documentation**](virtual-ocean.md) - *Dive* into an interactive oceanography experience.

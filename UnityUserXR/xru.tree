@@ -7,7 +7,7 @@
                  start-page="xru-welcome.md">
 
     <toc-element topic="xru-welcome.md"/>
-    <toc-element topic="Virtual-Ocean.md">
+    <toc-element topic="virtual-ocean.md">
         <toc-element topic="virtual-ocean-setup.md"/>
     </toc-element>
 </instance-profile>
