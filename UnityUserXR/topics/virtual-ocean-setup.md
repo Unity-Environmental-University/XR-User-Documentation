@@ -25,7 +25,7 @@ Follow the steps outlined in the first 60 seconds of this video to open anyway:
 </list>
 <table>
 <tr>
-<td><img alt="windows protection screen, highlighting the 'More Info' button" src="windows more info.png"></td>
+<td><img alt="windows protection screen, highlighting the 'More Info' button" src="windows more info.png"/></td>
 <td><img alt="windows protection screen, highlighting the 'Run anyway' button" src="windows run anyway.png"/></td>
 </tr>
 </table>
