@@ -1,37 +1,41 @@
 # Download and Install
 
-[Download and install the Virtual Ocean Simulation](https://drive.google.com/drive/folders/1DTqat6ORePHwJyewbw1prz6DsaUyccRF?usp=sharing)
-for your operating system (either Windows or Mac).
-
-## Mac Installation
-
-1. Double-click the .zip file to open it and then double-click the Virtual Ocean file to launch the simulation.
-2. You will be presented with a screen that says you cannot open the application due to security settings.
-   Follow the steps outlined in the first 60 seconds of this video to open anyway:
-    <video src="https://www.youtube.com/watch?v=NOW5dyA_JgY"/>
-
-## Windows Installation
-
-1. Double-click the VirtualOcean.zip file, and you will be prompted to extract the file.
-2. Click on “Extract All”!
-    <img src="extract zip.png" alt="a pop-up menu with the options to 'Extract all,' 'run,' and 'Cancel'"/>
-3. Choose a location to extract the files and then after files are extracted, open that location.
-4. Double-click on the Virtual Ocean icon to launch the simulation.
-    <img src="virtual ocean exe.png" alt="the contents of the extracted files highlighting the VirtualOcean.exe"/>
-5. IMPORTANT: You may be presented with a security warning. Please click on “More info” and then click on “Run anyway.”
-
-| <img alt="windows protection screen, highlighting the 'More Info' button" src="windows more info.png"/> | <img alt="windows protection screen, highlighting the 'Run anyway' button" src="windows run anyway.png"/> |
-|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-
-> If you are having technical difficulties, please contact [dmontoya@unity.edu](mailto:dmontoya@unity.edu) *and* **CC
-> your
-> course
-> instructor**.
+**Please Select your Operating System:**
+--
+<tabs>
+<tab title="Mac Installation">
+<list type="decimal">
+<li><a href="https://drive.google.com/drive/folders/1knt4LVbg4d9cNMu_gEhVRKF4k51zL2d5">Download</a> the Virtual Ocean for Mac</li>
+<li>Double-click the .zip file to open it and then double-click the Virtual Ocean file to launch the simulation.</li>
+<li>You will be presented with a screen that says you cannot open the application due to security settings.
+Follow the steps outlined in the first 60 seconds of this video to open anyway:
+<video src="https://www.youtube.com/watch?v=NOW5dyA_JgY"/></li>
+</list>
+</tab>
+<tab title="Windows Installation" id="windows-installation">
+<list type="decimal">
+<li><a href="https://drive.google.com/drive/folders/1HzWX1kgPhGqZH59R9NY-pCK9BGUtjRbQ">Download</a> the Virtual Ocean for Windows</li>
+<li>Double-click the VirtualOcean.zip file, and you will be prompted to extract the file.</li>
+<li>Click on “Extract All”!
+<img src="extract zip.png" alt="a pop-up menu with the options to 'Extract all,' 'run,' and 'Cancel'"/></li>
+<li>Choose a location to extract the files and then after files are extracted, open that location.</li>
+<li>Double-click on the Virtual Ocean icon to launch the simulation.
+<img src="virtual ocean exe.png" alt="the contents of the extracted files highlighting the VirtualOcean.exe"/></li>
+<li>IMPORTANT: You may be presented with a security warning. Please click on “More info” and then click on “Run anyway.”</li>
+</list>
+<table>
+<tr>
+<td><img alt="windows protection screen, highlighting the 'More Info' button" src="windows more info.png"></td>
+<td><img alt="windows protection screen, highlighting the 'Run anyway' button" src="windows run anyway.png"/></td>
+</tr>
+</table>
+</tab>
+</tabs>
 
 ## Getting Started with Virtual Ocean
 
-Once you have downloaded and installed the Virtual Ocean, *
-*[WATCH THIS](https://drive.google.com/file/d/17Q-R9I7mUGC7Iy836C6Tk_kLMZjaQXrN/view?usp=sharing)**  video for more
+Once you have downloaded and installed the Virtual Ocean,
+***[WATCH THIS VIDEO](https://drive.google.com/file/d/17Q-R9I7mUGC7Iy836C6Tk_kLMZjaQXrN/view?usp=sharing)*** for more
 information about how to
 use it.
 
