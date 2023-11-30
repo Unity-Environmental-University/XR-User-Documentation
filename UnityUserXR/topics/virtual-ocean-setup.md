@@ -5,7 +5,7 @@
 <tabs>
 <tab title="Mac Installation">
 <list type="decimal">
-<li><a href="https://drive.google.com/drive/folders/1knt4LVbg4d9cNMu_gEhVRKF4k51zL2d5">Download</a> the Virtual Ocean for Mac</li>
+<li><a href="https://drive.google.com/drive/folders/1knt4LVbg4d9cNMu_gEhVRKF4k51zL2d5">Download</a> the Virtual Ocean for <strong><u>Mac</u></strong></li>
 <li>Double-click the .zip file to open it and then double-click the Virtual Ocean file to launch the simulation.</li>
 <li>You will be presented with a screen that says you cannot open the application due to security settings.
 Follow the steps outlined in the first 60 seconds of this video to open anyway:
@@ -14,7 +14,7 @@ Follow the steps outlined in the first 60 seconds of this video to open anyway:
 </tab>
 <tab title="Windows Installation" id="windows-installation">
 <list type="decimal">
-<li><a href="https://drive.google.com/drive/folders/1HzWX1kgPhGqZH59R9NY-pCK9BGUtjRbQ">Download</a> the Virtual Ocean for Windows</li>
+<li><a href="https://drive.google.com/drive/folders/1HzWX1kgPhGqZH59R9NY-pCK9BGUtjRbQ">Download</a> the Virtual Ocean for <strong><u>Windows</u></strong></li>
 <li>Double-click the VirtualOcean.zip file, and you will be prompted to extract the file.</li>
 <li>Click on “Extract All”!
 <img src="extract zip.png" alt="a pop-up menu with the options to 'Extract all,' 'run,' and 'Cancel'"/></li>
