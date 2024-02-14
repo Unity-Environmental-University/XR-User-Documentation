@@ -11,6 +11,9 @@
     <build-profile instance="xru">
         <variables>
             <noindex-content>true</noindex-content>
+            <primary-color>forest</primary-color>
+            <header-logo>UEU-Logo-White.png</header-logo>
+            <product-web-url>https://unity.edu</product-web-url>
         </variables>
     </build-profile>
 </buildprofiles>
