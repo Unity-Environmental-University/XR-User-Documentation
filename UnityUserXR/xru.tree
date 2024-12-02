@@ -10,4 +10,7 @@
     <toc-element topic="virtual-ocean.md">
         <toc-element topic="virtual-ocean-setup.md"/>
     </toc-element>
+    <toc-element topic="dogpark.md">
+        <toc-element topic="dogpark-setup.md"/>
+    </toc-element>
 </instance-profile>
